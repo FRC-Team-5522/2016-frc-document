@@ -1,0 +1,391 @@
+# `ALLIANCE` - `联盟`
+
+a set of up to four (4) FIRST Robotics Competition Teams who play FIRST STRONGHOLD together
+
+一组 FIRST STRONGHOLD 参赛队, 最多可以由4支队伍组成.
+
+# `ALLIANCE CAPTAIN` - `联盟队长`
+
+a designated student representative from an ALLIANCE in a Playoff MATCH
+
+在淘汰赛阶段被指定代表一个`联盟`(ALLIANCE)的学生.
+
+# `ARENA` - `场地`
+
+all elements of the game infrastructure that are required to play FIRST STRONGHOLD: the FIELD, the CASTLES, the scoring elements, and all equipment needed for FIELD control, ROBOT control, and scorekeeping
+
+FIRST STRONGHOLD比赛中所需要得所有基础设施, 包括`赛场`, `城堡`, 得分元素, 以及`赛场`控制, `机器人`控制, 计分所需要的全部设备.
+
+
+# `ARENA FAULT` - `场地故障` 
+
+an error in ARENA operation that includes, but aren’t limited to those listed in Section 5 (5.5.5 MATCH Replays)
+
+`场地`在使用过程中出现错误, 包括但不限于在 Section 5 (5.5.5 MATCH Replays) 所列出的情况.
+
+# `AUTO` - `自动`
+
+the first fifteen (15) seconds of a MATCH in which ROBOTS operate without any DRIVE TEAM control or input
+
+比赛开始的15秒, `机器人`们自行操作, 不得接收任何`驾驶团队`的控制信号或其它输入信号.
+
+# `AUTO LINE` - ``
+
+a line of green gaffers tape used by Teams to demarcate the field for the AUTO period as per Section 2 (2.1 Zones & Markings)
+
+用绿色电工胶带贴出的一条线, 用于标记`自动`阶段的区域. Section 2 (2.1 Zones & Markings)
+
+# `BACKUP TEAM` - `后备队`
+
+a Team used to replace an inoperable ROBOT on an ALLIANCE during Elimination MATCHES per Section 5 (5.5.6 TIMEOUT and BACKUP TEAM Rules)
+
+在淘汰赛阶段, 用于替换无法工作的`机器人`的参赛队. Section 5 (5.5.6 TIMEOUT and BACKUP TEAM Rules)
+
+# `BATTER` - ``
+
+a series of ramps and dividers that compose the base of the TOWER as per Section 2 (2.2.3.1 CASTLE WALL)
+
+围绕`城楼`底部组合在一起的斜坡和分隔装置.Section 2 (2.2.3.1 CASTLE WALL)
+
+# `BERM` - ``
+
+a steel barrier that defines the border of the SECRET PASSAGE as per Section 2 (2.2.2.2 SECRET PASSAGE)
+
+定义出`秘密通道`边界的金属杆.Section 2 (2.2.2.2 SECRET PASSAGE)
+
+# `BOULDER` - `巨石`
+
+a 10 in. diameter, gray, Gopher SoftiBall(tm) coated foam ball used by ALLIANCES to score points in FIRST STRONGHOLD
+
+直径10英寸(25.4厘米), 灰色Gopher SoftiBall(tm)泡沫球. 各`联盟`用于在FIRST STRONGHOLD比赛中得分.
+
+
+# `BRATTICE` - ``
+
+the hole in the plastic portion of the HUMAN PLAYER STATION used by an ALLIANCE to introduce BOULDERS to the FIELD as per Section 2 (2.2.3.1 CASTLE WALL)
+
+`真人玩家区`塑料板上开的洞, 用于把`巨石`送进`赛场`. Section 2 (2.2.3.1 CASTLE WALL)
+
+# `BREACHED` - `在防御工事打开缺口`
+
+the state of an OUTER WORKS once four (4) out of its five (5) DEFENSES have been DAMAGED
+
+`外围防御工事`的一种状态. 5个工事中的4个被`摧毁`.
+
+# `BUMPER` - `保险杠`
+
+a protective assembly designed to attach to the exterior of the ROBOT and constructed as specified in Section 4 (4.7 BUMPER Rules)
+
+`机器人`外部的保护装置. 按照Section 4 (4.7 BUMPER Rules) 建造.
+
+# `BUMPER ZONE` - `保险杠区域`
+
+the volume contained between two virtual horizontal planes, 4 in. above the floor and 12 in. above the floor
+
+地板上面高度4英寸(10.12厘米)和12英寸(30.48厘米)的两个虚拟水平面之间所包含的空间.
+
+# `BYPASSED` - `旁路`
+
+a state in which a ROBOT has been commanded by the Driver Station to deactivate all outputs
+
+`机器人`收到控制台的命令, 关闭所有输出时的一种状态, 
+
+# `CAPTURED` - `被俘获`
+
+the state of a TOWER if, at the end of the MATCH, it is WEAKENED, and it is surrounded such that each of the three (3) opponent ROBOTS has SCALED or CHALLENGED a unique face of the TOWER
+
+在比赛结束时, `城楼`被`动摇`(`WEAKENED`), 同时,对手的三个机器人都已`登城`(`SCALED`)或`城楼`的每个面都被`挑战成功`(`CHALLENGED`)
+
+# `CASTLE` - `城堡`
+
+an area located at each end of the FIELD and bounded by and including the edges of the carpet, the CASTLE WALL, and white gaffers tape
+
+# `CASTLE WALL` - `城墙`
+
+the barrier between ROBOTS and DRIVE TEAMS (with the exception of a SPy in the SPy Box) that consists of three (3) PLAYER STATIONS, a HUMAN PLAYER STATION, and a TOWER
+
+# `CHALLENGE` - `挑战成功`
+
+an act performed by a ROBOT, such that at the conclusion of the MATCH, the ROBOT is fully supported by the TOWER, but hasn’t met the criteria for SCALING the TOWER
+
+# `COACH` - `教练`
+
+a student or adult Mentor identified as the person wearing the designated “COACH” pin or button during a MATCH
+
+# `COMPONENT` - `器件`
+
+any part in its most basic configuration, which cannot be disassembled without damaging or destroying the part or altering its fundamental function
+
+# `CORRAL` - ``
+
+the collection area for scored BOULDERS located at the rear base of the TOWER as described in Section 2 (2.2.3.1 CASTLE WALL)
+
+# `COTS` - `商用整机...`
+
+a “Commercial, Off-The-Shelf” COMPONENT or MECHANISM, in its unaltered, unmodified state. A COTS item must be a standard (i.e. not custom order) part commonly available from the VENDOR, available from a non-Team source, and available to all Teams for purchase. Items that are no longer commercially available but are functionally equivalent to the original condition as delivered from the VENDOR are considered COTS and may be used
+
+# `COURTYARD` - `庭园`
+
+an infinitely tall volume bordered by, but excluding, the CASTLE WALL, the GUARDRAIL, the SECRET PASSAGE and the OUTER WORKS
+
+除了`城墙`,`围墙`, `秘密通道`, `外围工事` 之外的区域, 高度无限.
+
+# `CROSS` - ``
+
+an act performed by a ROBOT, such that it starts free of contact with an opponent DEFENSE and completely in the NEUTRAL ZONE, traverses the DEFENSE such that its BUMPERS go fully between the adjacent SHIELDS/GUARDRAIL, and ends up fully contained by the opponent’s COURTYARD
+
+# `CUSTOM CIRCUIT` - `定制电路`
+
+any electrical component of the robot other than motors , pneumatic solenoids, roboRIO, PDP, PCM, VRM, RSL, 120A breaker, motor controllers, relay modules, wireless bridge, or batteries
+
+# `DAMAGED` - `摧毁`
+
+the state of a DEFENSE when that DEFENSE’S STRENGTH is zero (0)
+
+# `DEFENSE` - `防御工事`
+
+one (1) of five (5) obstacles in the OUTER WORKS and clips in to a PLATFORM
+
+# `DISABLED` - `停机状态`
+
+a state in which a ROBOT has been commanded by the Driver Station to deactivate all outputs
+
+# `DISQUALIFIED` - `取消资格`
+
+the status of a Team, as determined by the Head REFEREE, in which their Team receives zero (0) Match points in a qualification MATCH or causes their ALLIANCE to receive zero (0) Match points in a Playoff MATCH
+
+# `DRIVE TEAM` - `驾驶团队`
+
+one (1) COACH, two (2) DRIVERS, and one (1) HUMAN PLAYER from the same FIRST Robotics Competition Team who are responsible for ROBOT operation during a particular MATCH
+
+# `DRIVER` - `驾驶员`
+
+a pre-college student DRIVE TEAM member responsible for operating and controlling the ROBOT during a MATCH
+
+# `EMBRASURE` - `射击孔`
+
+a hole at the bottom of the HUMAN PLAYER STATION wall diamond plate which can be used by an ALLIANCE to introduce BOULDERS to the FIELD
+
+`真人玩家区`围墙底部的孔, 用于将`巨石`送入`赛场`.
+
+# `FABRICATED ITEMS` - `加工件`
+
+any COMPONENT or MECHANISM that has been altered, built, cast, constructed, concocted, created, cut, heat treated, machined, manufactured, modified, painted, produced, surface coated, or conjured partially or completely into the final form in which it will be used on the ROBOT
+
+# `FIELD` - `赛场`
+
+a 26 ft. 7 in (8.14 m). by 54 ft. 1 in (16.49 m). carpeted area, bound by and including the inward-facing surfaces of the GUARDRAILS and two (2) CASTLES
+
+# `FIELD STEWARDS` - `赛场工作人员`
+
+REFEREES, FTAs, or other staff working around the FIELD
+
+# `FMS` - `场地控制系统`
+
+FIELD Management System as described in the FMS Whitepaper
+
+# `FOUL` - `犯规`
+
+a penalty assessed by a REFEREE which credits the opponent with 5 points
+
+# `FRAME PERIMETER` - ``
+
+the polygon defined by the outer-most set of exterior vertices on the ROBOT (without the BUMPERS attached) that are within the BUMPER ZONE. To determine the FRAME PERIMETER, wrap a piece of string around the ROBOT at the level of the BUMPER ZONE - the string describes this polygon
+
+# `FTA` - `FIRST技术顾问`
+
+FIRST Technical Advisor
+
+# `GOAL` - `目标?`
+
+an opening in the TOWER in which BOULDERS may be scored
+
+# `GUARDRAIL` - `围墙`
+
+a system that consists of transparent polycarbonate shields supported on the top and bottom by aluminum extrusion
+
+顶部及底部由铝型材固定的透明有机玻璃组成的系统.
+
+
+# `Herald` - `主持人`
+
+the Emcee of the event
+
+比赛活动现场的司仪(组织观众选择防御工事, 5.5.10.1 AUDIENCE SELECTION OF DEFENSES)
+
+# `HUMAN PLAYER` - `真人玩家`
+
+a pre-college student DRIVE TEAM member primarily responsible for managing and introducing game pieces onto the FIELD throughout the MATCH
+
+`驾驶团队`中主要负责把比赛物品传入比赛场地的学生.
+
+# `HUMAN PLAYER STATION` - `真人玩家区`
+
+an area on the side of each CASTLE through which HUMAN PLAYERS feed BOULDERS on to the FIELD
+
+位于每一个`城堡`边缘, `真人玩家`科技将`巨石`送入`赛场`.
+
+# `Kit of Parts (KOP)` - `官方套件(KOP)`
+
+the collection of items listed on any Kickoff Kit Checklists, distributed via FIRST Choice, or obtained via a Product Donation Voucher (PDV), etc.
+
+开赛套件清单中所列出的物品, 通过FIRST指定的渠道分发, 或从通过赠券获得的物品.
+
+# `LINEUP` - ``
+
+the list of three (3) Teams and their selected PLAYER STATIONS submitted by an ALLIANCE CAPTAIN to play in a FIRST Championship Division Playoff MATCH or a MATCH on the Einstein FIELDS
+
+# `MATCH` - `比赛`
+
+a two (2) minute and thirty (30) second period of time in which ALLIANCES play FIRST STRONGHOLD
+
+`联盟`们进行FIRST STRONGHOLD的2分30秒时间.
+
+# `MECHANISM` - `器材`
+
+a COTS or custom assembly of COMPONENTS that provide specific functionality on the ROBOT. A MECHANISM can be disassembled (and then reassembled) into individual COMPONENTS without damage to the parts
+
+# `MIDLINE` - `中线`
+
+a line of 2 in. white gaffers tape that bisects the length of the FIELD
+
+# `MXP` - `MXP`
+
+MyRIO expansion Port, the expansion port on the roboRIO
+
+# `NEUTRAL ZONE` - `中立区`
+
+an infinitely tall volume formed by, but not including, the BERMS, the GUARDRAILS and OUTER WORKS
+
+# `OPERATOR CONSOLE` - `操作员控制台`
+
+the set of COMPONENTS and MECHANISMS used by the DRIVERS and/or HUMAN PLAYER to relay commands to the ROBOT
+
+# `OUTER WORKS` - `外围工事`
+
+an infinitely tall volume bordered by the GUARDRAIL, the SECRET PASSAGE, and 2 in. white gaffers tape (The OUTER WORKS includes the white gaffers tape, but does not include the GUARDRAIL or SECRET PASSAGE). It consists of a series of five (5) DEFENSES, five (5) PLATFORMS, and five (5) Shields arranged in a line across the FIELD and is designed to impeded the passage of ROBOTS and BOULDERS in to the COURT yARDS
+
+# `PASSIVE CONDUCTORS` - `无源导体`
+
+any device or circuit whose capability is limited to the conduction and/or static regulation of the electrical energy applied to it (e.g. wire, splices, connectors, printed wiring board, etc.)
+
+# `PCM` - `气动控制模块`
+
+Pneumatic Control Module
+
+# `PDP` - `分电器`
+
+Power Distribution Panel
+
+# `PLATFORM` - `防御平台`
+
+a 4 ft. 2 in. wide, 2 ft. deep and 3 in. tall base for a DEFENSE and associated ramps
+
+# `PLAYER STATION` - ``
+
+one (1) of three (3) assigned positions behind a CASTLE WALL from where a DRIVE TEAM operates their ROBOT
+
+# `RS` - ``
+
+Ranking Score, the total number of Ranking Points earned by a Team throughout their Qualification MATCHES
+
+# `RP` - ``
+
+Ranking Point + a unit credited to a Team based on their ALLIANCES’ performance in Qualification Matches
+
+# `REACH` - `抵达`
+
+an act performed by a ROBOT, such that at the end of the AUTO period, any part of a ROBOT’S BUMPERS are within the opponent’s OUTER WORKS
+
+# `RED CARD` - `红牌`
+
+a penalty assessed for egregious ROBOT or FIRST Robotics Competition Team member behavior which results in a Team being DISQUALIFIED
+
+# `REFEREE` - `裁判员`
+
+an official who is certified by FIRST to enforce the rules of FIRST STRONGHOLD
+
+# `ROBOT` - `机器人`
+
+an electromechanical assembly built by an FIRST Robotics Competition Team
+to perform specific tasks when competing in FIRST STRONGHOLD. It includes
+all of the basic systems required to be an active participant in the game: power, communications, control, and movement. The implementation must obviously follow a design approach intended to play FIRST STRONGHOLD (e.g. a box of unassembled parts placed on the FIELD or a ROBOT designed to play a different game would not satisfy this definition)
+
+# `RUNG` - `吊环`
+
+a bar mounted on a TOWER face that is 1 ft. 9 in. wide and constructed of 1-1/2” Steel DOM Tubing
+
+# `SCALE` - `登城`
+
+an act performed by a ROBOT, such that at the conclusion of the MATCH, it is fully supported by the TOWER, is in contact with at least one RUNG, and has all of its BUMPERS fully above the height of the low GOALS. (update in manual and fix “at least one RUNG”)
+
+# `SECRET PASSAGE` - `秘密通道`
+
+a rectangular area in front of each HUMAN PLAYER STATION. As introduced in Section 2 (2.1 Zones & Markings), each ALLIANCE has a SECRET PASSAGE; an infinitely tall, 4 ft. 5-1/2 in. wide, 23 ft. 11-1/2 in. deep volume defined by BERMS, the GUARDRAIL and the CASTLE WALL
+
+# `SHIELD` - `隔板`
+
+a 3/8” thick polycarbonate sheet, 4 ft. deep and 2 ft. tall separating each DEFENSE, and the OUTER WORKS from the SECRET PASSAGE BERM
+
+# `SPY BOX` - `间谍区`
+
+a 6 ft. wide by 2 ft. deep, infinitely tall volume, bounded by and including 2 in. white gaffers tape, located adjacent to the to the edge of the opposing CASTLE and the edge of the carpet.
+
+# `STANDARD` - ``
+
+a Team’s flag to be flown over their PLAYER STATION on the FIELD during MATCHES
+
+# `STARTING CONFIGURATION` - `初始配置`
+
+the physical configuration and orientation of the ROBOT when the MATCH is started. This is the state of the ROBOT immediately before being Enabled by the Field Management System, before the ROBOT takes any actions, deploys any mechanisms, or moves away from the starting location. This configuration is static, and does not change during a single MATCH (although it may change from MATCH to MATCH). In the STARTING CONFIGURATION, no part of the ROBOT may extend outside the vertical projection of the FRAME PERIMETER, with the exception of minor protrusions such as bolt heads, fastener ends, rivets, etc.
+
+# `STARTING LINE` - `起点线?`
+
+a 2 in. white gaffers tape line that is the width of the CASTLE and is 2 ft. 6 in. from the CASTLE WALL
+
+# `STRENGTH` - `防御力`
+
+a measure of DEFENSE or TOWER health
+
+# `SURROGATE` - `替代者`
+
+a Team randomly assigned by the FIELD Management System to play an extra Qualification MATCH
+
+# `TECH FOUL` - `技术失误`
+
+a penalty assessed by a REFEREE which credits the opponent with 5 points and one (1) TOWER STRENGTH
+
+# `TELEOP` - `遥控`
+
+the final two (2) minutes and fifteen (15) seconds of a MATCH in which ROBOTS may be directly controlled by DRIVERS and/or HUMAN PLAYERS
+
+# `TIMEOUT` - ``
+
+a period of up to six (6) minutes between MATCHES used to pause Playoff MATCH progression
+
+# `TOWER` - `城楼`
+
+the part of the CASTLE constructed between PLAYER STATIONS two (2) and three (3) with three (3) faces, three (3) RUNGS, five (5) GOALS, a BATTER, and a CORRAL
+
+# `VENDOR` - `供应商`
+
+a legitimate business source for COTS items that satisfies criteria listed in Section 4 (4.1 Overview)
+
+# `VRM` - `电压调节器`
+
+Voltage Regulator Module
+
+# `WEAKENED` - `动摇?`
+
+the state of a TOWER if its STRENGTH is at or below zero (0)
+
+`城楼`的`防御力`减到0或小于0时所处的状态;
+
+# `WITHHOLDING ALLOWANCE` - ``
+
+a static set of FABRICATED ITEMS that shall not exceed 30 lbs., brought to an event (or Robot Access Period) in addition to the bagged items, to be used to repair and/or upgrade their ROBOT
+
+# `YELLOW CARD` - `黄牌`
+
+a warning issued by the Head REFEREE for egregious ROBOT or Team member behavior
+
